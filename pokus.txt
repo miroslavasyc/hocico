@@ -2,4 +2,6 @@ Hura!
 
 
 
-zmena v ramci vetvy ! 
+zmena v ramci vetvy !
+
+este jedna zmena 
